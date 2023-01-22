@@ -1,4 +1,4 @@
 # Aladdin
-HTML
-CSS
-@keyframes
+* HTML
+* CSS
+* @keyframes
